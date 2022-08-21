@@ -2,6 +2,9 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-orange)
 
+# Link To Application
+https://text-editor-by-al.herokuapp.com/
+
 # Description: 
 Create a text/code editor that functions on a single page, follows PWA criteria, and works offline. The application will also able to be downloaded onto your computer or mobile device to be used outside of the browser.
 
